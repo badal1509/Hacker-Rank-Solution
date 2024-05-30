@@ -18,4 +18,3 @@ if n%2==0:
         print ("Weird")
     if n>20:
         print ("Not Weird")
-print("hello")
