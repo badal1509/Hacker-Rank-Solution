@@ -12,16 +12,11 @@ if __name__ == '__main__':
 
         if (cmd[0] == "remove"):
             li.remove(int(cmd[1]))
-
-
         if (cmd[0] == "append"):
             li.append(int(cmd[1]))
-
         if (cmd[0] == "sort"):
             li.sort()
-
         if (cmd[0] == "pop"):
             li.pop()
-
         if (cmd[0] == "reverse"):
             li.reverse()

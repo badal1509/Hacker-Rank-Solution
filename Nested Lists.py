@@ -18,5 +18,5 @@ if __name__ == '__main__':
             nam.append(n)
     nam.sort()
     for i in nam:
-        
+
         print(i)
