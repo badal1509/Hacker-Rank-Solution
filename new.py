@@ -1,5 +1,5 @@
 def hello():
-    return "badal singh Kushwaha"
+    return "badal Singh Kushwaha"
 def sirnam(funname):
     def newpro(funname):
         return "Mr. "+funname
