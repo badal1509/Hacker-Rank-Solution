@@ -11,7 +11,7 @@ if __name__ == '__main__':
             li.remove(int(cmd[1]))
         if (cmd[0] == "append "):
             li.append(int(cmd[1]))
-        if (cmd[0] == "sort"):
+        if (cmd[0] == "sort "):
             li.sort()
         if (cmd[0] == "pop"):
             li.pop()
