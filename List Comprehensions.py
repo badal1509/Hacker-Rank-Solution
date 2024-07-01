@@ -11,5 +11,5 @@ for i in range(x+1):
                 if i+j+k==x+y+z:
                     print(f"[{i}, {j}, {k}]",end="")
                     break
-                print(f"[{i}, {j}, {k}]",end=", ")
+                print(f"[{i}, {j}, {k}]",end=",")
 print("]")
