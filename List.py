@@ -7,7 +7,7 @@ if __name__ == '__main__':
             li.insert(int(cmd[1]), int(cmd[2]))
         if cmd[0] == "print ":
             print(li)
-        if (cmd[0] == "remove "):
+        if cmd[0] == "remove ":
             li.remove(int(cmd[1]))
         if (cmd[0] == "append "):
             li.append(int(cmd[1]))
