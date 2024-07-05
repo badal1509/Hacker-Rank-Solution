@@ -5,7 +5,7 @@ input_string = input()
 print('Hello, World. this is me Badal Singh Kushwaha ')
 
 
-def hello() -> none:
+def hello():
     print("this is me first program")
 
 
