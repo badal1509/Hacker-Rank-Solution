@@ -3,6 +3,10 @@ input_string = input()
 
 # Print a string literal saying "Hello, World." to stdout.
 print('Hello, World. this is me Badal Singh Kushwaha ')
-def hello():
+
+
+def hello() -> none:
     print("this is me first program")
+
+
 hello()
