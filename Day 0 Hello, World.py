@@ -6,6 +6,6 @@ print('Hello, World. this is me Badal Singh Kushwaha ')
 
 
 def hello():
-    print("This is me first program ")
+    print("This is my first program ")
 
 hello()
