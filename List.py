@@ -9,7 +9,7 @@ if __name__ == '__main__':
             print(li)
         if cmd[0] == "remove":
             li.remove(int(cmd[1]))
-        if cmd[0] == "append ":
+        if cmd[0] == "append":
             li.append(int(cmd[1]))
         if (cmd[0] == "sort "):
             li.sort()
