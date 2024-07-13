@@ -15,5 +15,5 @@ if __name__ == '__main__':
             li.sort()
         if (cmd[0] == "pop"):
             li.pop()
-        if (cmd[0] == "reverse"):
+        if (cmd[0] == "reverse "):
             li.reverse()
