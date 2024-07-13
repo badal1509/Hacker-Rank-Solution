@@ -13,7 +13,7 @@ if __name__ == '__main__':
             li.append(int(cmd[1]))
         if (cmd[0] == "sort"):
             li.sort()
-        if (cmd[0] == "pop "):
+        if (cmd[0] == "pop"):
             li.pop()
         if (cmd[0] == "reverse"):
             li.reverse()
