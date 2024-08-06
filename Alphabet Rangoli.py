@@ -1,5 +1,5 @@
 def print_rangoli(size):
-    alpha = "abcdefghijklmnopqrstuvwxy"
+    alpha = "abcdefghijklmnopqrstuvwxyZ"
     data = [alpha[i] for i in range(size)]
     items = list(range(size))
     items = items[:-1]+items[::-1]
