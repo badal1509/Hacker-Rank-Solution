@@ -15,4 +15,4 @@ def minion_game(string):
     elif kevin_score < stuart_score:
         print("Stuart", stuart_score)
     else:
-        print("Draw ")
+        print("Draw")
